@@ -1,0 +1,165 @@
+Código: 154800
+Nome: Luiz
+Endereço: rua eldorado
+Telefone: 1919848751
+Nacionalidade: brasil
+Cidade: belo horizonte
+Estado: minas gerais
+Bairro: taquaril
+Rua: eldorado
+CPF: 15480059670
+
+Código: 123456
+Nome: amanda
+Endereço: 350
+Telefone: 1919848751
+Nacionalidade: brasilk
+Cidade: bh
+Estado: mg
+Bairro: pirineus
+Rua: fosforo
+CPF: 12345678900
+
+Código: 789456
+Nome: Usuario estadia
+Endereço: 500
+Telefone: 123456789
+Nacionalidade: br
+Cidade: bh
+Estado: ba
+Bairro: ta
+Rua: rua
+CPF: 78945612300
+
+Código: 456123
+Nome: teste estadia01
+Endereço: a
+Telefone: 0
+Nacionalidade: a
+Cidade: a
+Estado: a
+Bairro: a
+Rua: a
+CPF: 45678912300
+
+Código: 12
+Nome: teste02
+Endereço: as
+Telefone: 0
+Nacionalidade: a
+Cidade: a
+Estado: s
+Bairro: d
+Rua: s
+CPF: d
+
+Código: 789
+Nome: ds
+Endereço: d
+Telefone: 0
+Nacionalidade: sd
+Cidade: s
+Estado: d
+Bairro: s
+Rua: d
+CPF: s
+
+Código: 456123789
+Nome: TESTE04
+Endereço: rua
+Telefone: 0
+Nacionalidade: rua
+Cidade: ra
+Estado: rua
+Bairro: rua
+Rua: r
+CPF: rua
+
+Código: 888
+Nome: teste05
+Endereço: r
+Telefone: 0
+Nacionalidade: r
+Cidade: r
+Estado: r
+Bairro: rr
+Rua: r
+CPF: r
+
+Código: 999
+Nome: r
+Endereço: r
+Telefone: 0
+Nacionalidade: r
+Cidade: r
+Estado: r
+Bairro: r
+Rua: r
+CPF: r
+
+Código: 703318
+Nome: caio
+Endereço: rua francisco
+Telefone: 1933274837
+Nacionalidade: brasil
+Cidade: contagem
+Estado: minas gerais
+Bairro: industrial
+Rua: francisco
+CPF: 70331829615
+
+Código: 147258
+Nome: caio
+Endereço: 18
+Telefone: -1096921387
+Nacionalidade: EUA
+Cidade: orlando
+Estado: florida
+Bairro: grove
+Rua: river
+CPF: 14725836910
+
+Código: 65012
+Nome: Erick
+Endereço: Rua
+Telefone: 555
+Nacionalidade: brasili
+Cidade: bh
+Estado: piaui
+Bairro: coreu
+Rua: rua
+CPF: 065012
+
+Código: 741852
+Nome: jose
+Endereço: rua oitenta
+Telefone: �
+Nacionalidade: brasil
+Cidade: contagem
+Estado: minas gerais
+Bairro: industrial
+Rua: oitenta
+CPF: 74185296310
+
+Código: 159263
+Nome: jose
+Endereço: 32
+Telefone: 31998045909
+Nacionalidade: brasil
+Cidade: contagem
+Estado: minas gerais
+Bairro: industrial
+Rua: rua oitenta
+CPF: 15926348710
+
+Código: 119181
+Nome: igor
+Endereço: 201
+Telefone: 31993061230
+Nacionalidade: br
+Cidade: bh
+Estado: mg
+Bairro: são gabriel 
+Rua: rua 
+CPF: 11918133322
+

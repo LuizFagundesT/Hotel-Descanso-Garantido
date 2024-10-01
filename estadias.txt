@@ -1,0 +1,30 @@
+Codigo cliente: 154800
+Num quarto: 4
+Num pessoas no quarto: 2
+Num de dias: 23
+Valor das diarias: 5750.000000
+
+Codigo cliente: 154800
+Num quarto: 1
+Num pessoas no quarto: 2
+Num de dias: 19
+Valor das diarias: 4750.000000
+
+Codigo cliente: 154800
+Num quarto: 2
+Num pessoas no quarto: 2
+Num de dias: 19
+Valor das diarias: 1900.000000
+
+Codigo cliente: 703318
+Num quarto: 1
+Num pessoas no quarto: 2
+Num de dias: 5
+Valor das diarias: 1250.000000
+
+Codigo cliente: 703318
+Num quarto: 4
+Num pessoas no quarto: 2
+Num de dias: -5
+Valor das diarias: -1000.000000
+

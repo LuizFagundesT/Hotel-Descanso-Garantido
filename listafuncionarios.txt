@@ -1,0 +1,24 @@
+Código: 156866
+Nome: amanda
+Telefone: 31985
+Cargo: atendente
+Salário: 560.00
+
+Código: 185478
+Nome: luiz
+Telefone: 319685
+Cargo: cameiro
+Salário: 890.00
+
+Código: 703318
+Nome: joao
+Telefone: 31998045909
+Cargo: garçom
+Salário: 1500.00
+
+Código: 147852
+Nome: Marcelo
+Telefone: 31956228333
+Cargo: gerente
+Salário: 4000.00
+

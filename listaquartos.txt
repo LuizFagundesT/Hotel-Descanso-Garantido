@@ -1,0 +1,30 @@
+Quant de hospedes: 2
+Num quarto: 1
+Stat: DESOCUPADO
+Valor diaria: 250.000000
+
+Quant de hospedes: 2
+Num quarto: 2
+Stat: OCUPADO
+Valor diaria: 100.000000
+
+Quant de hospedes: 3
+Num quarto: 3
+Stat: DESOCUPADO
+Valor diaria: 150.000000
+
+Quant de hospedes: 3
+Num quarto: 4
+Stat: OCUPADO
+Valor diaria: 200.000000
+
+Quant de hospedes: 2
+Num quarto: 5
+Stat: OCUPADO
+Valor diaria: 300.000000
+
+Quant de hospedes: 4
+Nº do quarto: 6
+Stat: DESOCUPADO
+Valor diaria: 150.000000
+
